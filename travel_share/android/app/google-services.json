@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "58632486387",
+    "project_id": "travelshare-12d7c",
+    "storage_bucket": "travelshare-12d7c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:58632486387:android:cde5990b5af04c7820e686",
+        "android_client_info": {
+          "package_name": "com.example.travel_share"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "58632486387-fel3mb0d8gcldmsm8dj2marja4htr3gk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2h-VuaGSDKheptZU8OMQFH6YHRNsQseE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "58632486387-fel3mb0d8gcldmsm8dj2marja4htr3gk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
