@@ -7,6 +7,7 @@ import 'package:travel_share/views/screens/add_video_screen.dart';
 import 'package:travel_share/views/screens/video_screen.dart';
 import 'package:travel_share/views/screens/profile_screen.dart';
 import 'package:travel_share/views/screens/search_screen.dart';
+import 'package:travel_share/views/screens/explore_screen.dart';
 
 // COLORS
 const backgroundColor = Colors.black;
@@ -26,6 +27,6 @@ List pages = [
    VideoScreen(),
    SearchScreen(),
    const AddVideoScreen(),
-  Text('Messages Screen'),
+  ExploreScreen(),
   ProfileScreen(uid: authController.user.uid),
 ];
